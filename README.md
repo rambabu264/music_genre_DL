@@ -4,7 +4,7 @@ Before runnig the code, download the GTZAN dataset from
 
 https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 
-under the folder music-genre.
+under the folder Data
 
 To execute the code:
 
