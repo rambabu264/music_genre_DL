@@ -8,6 +8,8 @@ under the folder Data.
 
 To execute the code:
 
+```
 pip install -r requirements.txt
+```
 
 then run the python file main..py
